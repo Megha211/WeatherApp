@@ -34,5 +34,5 @@ https://drive.google.com/file/d/1Bv15YyZYR1rEOUGtxstDb-pQ1Z1biRYg/view?usp=drive
 
 ## Credits
 
-- This project was created by [Your Name].
+- This project was created by Megha Mittal.
 - Weather data is provided by [OpenWeather API](https://openweathermap.org/api).
