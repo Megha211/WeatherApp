@@ -29,8 +29,7 @@ This is a simple weather app built using React.js and Vite. It utilizes the Open
 - The app will display the current weather information for the provided city.
 
 ## Screenshots
-
-https://drive.google.com/file/d/1Bv15YyZYR1rEOUGtxstDb-pQ1Z1biRYg/view?usp=drive_link
+<div> <img src = "./assets/MyWeatherApp.png" width="200"> </div>
 
 ## Credits
 
